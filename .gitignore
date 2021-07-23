@@ -31,3 +31,5 @@ htmlcov/
 .github/**
 JWT_SECRET='myjwtsecret'
 LOG_LEVEL=DEBUG
+
+aws-auth-patch.yml
